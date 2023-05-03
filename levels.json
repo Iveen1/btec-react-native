@@ -1,0 +1,17 @@
+[
+    {
+        "name": "1 уровень",
+        "seconds_per_question": null,
+        "question_count": 10
+    },
+    {
+        "name": "2 уровень",
+        "seconds_per_question": 20,
+        "question_count": 10
+    },
+    {
+        "name": "3 уровень",
+        "seconds_per_question": 10,
+        "question_count": 10
+    }
+]
